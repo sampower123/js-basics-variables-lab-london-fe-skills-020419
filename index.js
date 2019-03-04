@@ -3,3 +3,4 @@ const companyName = 'Scuber';
 
 mostProfitableNeighborhood = 'Chelsea'
 
+companyCEO = 'Susan'
